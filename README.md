@@ -12,9 +12,9 @@ An iOS application that consumes the open-source openweathermap API and displays
 
 [1. Hourly Weather](#a)
 
-[2. Select City](#b)
+[2. Select City](#aa)
 
-[3. Change Degree](#c)
+[3. Change Degree](#aaa)
 
 
 <a name="a"></a>
@@ -27,7 +27,7 @@ An iOS application that consumes the open-source openweathermap API and displays
   <img src="Videos/HourlyWeather.gif"  width="45%" height="45% />
 </p>
 
-<a name="b"></a>
+<a name="aa"></a>
 
 # 2. Select City
 
@@ -37,7 +37,7 @@ An iOS application that consumes the open-source openweathermap API and displays
   <img src="Videos/SelectCityWeather.gif"  width="45%" height="45% />
 </p>
 
-<a name="c"></a>
+<a name="aaa"></a>
 
 # 3. Change Degree
 
