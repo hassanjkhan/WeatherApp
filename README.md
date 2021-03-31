@@ -7,6 +7,7 @@
 
 An iOS application that consumes the open-source openweathermap API and displays the weather for the next 5 days as well as hourly weather as shown in the gifs below. The user may also select a different city by pressing the search icon and typing in a city name.
 
+<a name="a"></a>
 
 # 1. Hourly Weather
 
@@ -15,6 +16,8 @@ An iOS application that consumes the open-source openweathermap API and displays
 <p align="center">
   <img src="Videos/HourlyWeather.gif"  width="45%" height="45% />
 </p>
+                                                           
+<a name="b"></a>
 
 # 2. Select City
 
@@ -23,6 +26,8 @@ An iOS application that consumes the open-source openweathermap API and displays
 <p align="center">
   <img src="Videos/SelectCityWeather.gif"  width="45%" height="45% />
 </p>
+
+<a name="c"></a>                                                                                            
 
 # 3. Change Degree
 
