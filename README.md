@@ -10,11 +10,11 @@ An iOS application that consumes the open-source openweathermap API and displays
 
 ## Table of Contents
 
-[1. Hourly Weather](#hourly)
+[1. Hourly_Weather](#hourly)
 
-[2. Select City](#select)
+[2. Select_City](select)
 
-[3. Change Degree](#change)
+[3. Change_Degree](change)
 
 
 <a name="hourly"></a>
